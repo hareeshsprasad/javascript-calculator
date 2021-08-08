@@ -12,6 +12,8 @@
     height: 100px;
     pointer-events: none;
     background: #065c65;
+    font-style: italic;
+    color:white;
 }
 .btn{
     width: 72px;
